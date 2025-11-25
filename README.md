@@ -10,6 +10,11 @@
 - 🌱 I’m currently learning **BlockChain**
 - 🌱 I’m currently learning **AI**
 - 📫 How to reach me **vannang20050414@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/n%C4%83ng-nguy%E1%BB%85n-a2a05a318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n%C4%83ng-nguy%E1%BB%85n-a2a05a318/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tran.long.611515/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tran.long.611515/" height="30" width="40" /></a>
+</p>
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=nang14mu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
