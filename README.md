@@ -18,9 +18,3 @@
        alt="Facebook" height="30" width="40" />
 </a>
 </p>
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=nang14mu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=nang14mu&icon=1&color=0)](https://visitcount.itsvg.in)
-
