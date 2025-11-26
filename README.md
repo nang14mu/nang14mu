@@ -10,6 +10,9 @@
 <a href="https://www.facebook.com/nguyen.nang.50159" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
        alt="Facebook" height="30" width="40" />
+<a href="https://www.youtube.com/@N%C4%83ngNguy%E1%BB%85n-v3r" target="_blank">
+  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/youtube.svg"
+       alt="Youtube" height="30" width="40" />
 </a>
 </p>
 
