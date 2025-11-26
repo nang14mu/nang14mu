@@ -22,7 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nang14mu&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nang14mu&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nang14mu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <a href="https://github.com/nang14mu/Flappy-Bird---Java-Swing">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nang14mu&repo=Flappy-Bird---Java-Swing&theme=synthwave" />
