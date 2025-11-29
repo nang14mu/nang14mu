@@ -26,3 +26,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nang14mu&repo=Flappy-Bird---Java-Swing&theme=synthwave" />
 </a>
+<a href="https://github.com/nang14mu/cardano-lock-unlock">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nang14mu&repo=cardano-lock-unlock&theme=algolia" />
+</a>
